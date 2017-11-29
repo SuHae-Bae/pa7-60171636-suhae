@@ -9,7 +9,7 @@ public class Rectangle extends Shape{ //Shape 클래스를 상속받는 Rectangl
 
 	public Rectangle(double x, double y, double z, double p) {
 		// TODO Auto-generated constructor stub
-		//Rectangle의 construntor생성
+		//Rectangle의 constructor생성
 		this.x = x;//이 클래스에서 x 는 이때 입력받은 x값이 된다.
 		this.y = y;//이 클래스에서 y 는 이때 입력받은 y값이 된다.
 		this.z = z;//이 클래스에서 z 는 이때 입력받은 z값이 된다.
